@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Libs/IAP6Helper/IAP6Helper.iml" filepath="$PROJECT_DIR$/.idea/modules/Libs/IAP6Helper/IAP6Helper.iml" group="sam/IAP6Helper" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Samples/IAP6Sample/IAP6Sample.iml" filepath="$PROJECT_DIR$/.idea/modules/Samples/IAP6Sample/IAP6Sample.iml" group="sam/IAP6Sample" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Samples/IAP6SampleKotlin/IAP6SampleKotlin.iml" filepath="$PROJECT_DIR$/.idea/modules/Samples/IAP6SampleKotlin/IAP6SampleKotlin.iml" group="sam/IAP6SampleKotlin" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sam.iml" filepath="$PROJECT_DIR$/.idea/modules/sam.iml" group="sam" />
+    </modules>
+  </component>
+</project>
